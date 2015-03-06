@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ListViewExample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="countries">
+        <item name="austria"> Austria </item>
+        <item name="canada"> Canada </item>
+        <item name="england"> England </item>
+        <item name="germany"> Germany </item>*
+        <item name="mexico"> Mexico </item>
+        <item name="portugal"> Portugal </item>
+        <item name="unitedstates"> United States </item>
+        <item name="spain"> Spain </item>
+    </string-array>
+
+</resources>
